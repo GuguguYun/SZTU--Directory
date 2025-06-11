@@ -1,0 +1,95 @@
+.dataItems {
+    display: flex;
+    height: 72px;
+    width: 100%;
+    /* background-color: pink; */
+    border-top: 0.5px solid #e2e2e2;
+}
+
+.name-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 12.5%;
+    height: 100%;
+    font-size: 15px;
+    font-weight: 400;
+    color: #3d3d3d;
+}
+
+.sno-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 12.5%;
+    height: 100%;
+    font-size: 15px;
+    font-weight: 400;
+    color: #3d3d3d;
+}
+
+.inline-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 12.5%;
+    height: 100%;
+    font-size: 15px;
+    font-weight: 400;
+    color: #3d3d3d;
+}
+
+.outline-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 12.5%;
+    height: 100%;
+    font-size: 15px;
+    font-weight: 400;
+    color: #3d3d3d;
+}
+
+.department-item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 12.5%;
+    height: 100%;
+    font-size: 15px;
+    font-weight: 400;
+    color: #3d3d3d;
+}
+
+.department-sno-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 12.5%;
+    height: 100%;
+    font-size: 15px;
+    font-weight: 400;
+    color: #3d3d3d;
+}
+
+.email-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 12.5%;
+    height: 100%;
+    font-size: 15px;
+    font-weight: 400;
+    color: #3d3d3d;
+}
+
+.address-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 12.5%;
+    height: 100%;
+    font-size: 15px;
+    font-weight: 400;
+    color: #3d3d3d;
+}

@@ -1,0 +1,52 @@
+.header {
+    height: 70px;
+    background-color: #00215b;
+}
+
+.header-content {
+    height: 70px;
+    display: flex;
+    align-items: center;
+    margin-left: 5%;
+}
+
+.header .header-content img {
+    height: 50px;
+    width: 50px;
+}
+
+.smallbox {
+    display: block;
+    margin-left: 10px;
+    color: #fff;
+    unicode-bidi: isolate;
+}
+
+.smallbox h2 {
+    margin-top: 10px;
+    line-height: 30px;
+    font-size: 28px;
+    font-weight: 700;
+    letter-spacing: 4px;
+}
+
+.smallbox p {
+    line-height: 30px;
+    font-size: 12px;
+}
+
+.header-content .divider {
+    display: inline-block;
+    width: 3px;
+    height: 35px;
+    margin-left: 15px;
+    margin-right: 15px;
+    background-color: #dcdfe6;
+    /* 让行内元素在其父元素基线中线 */
+    vertical-align: middle;
+}
+
+.header-content .what {
+    color: #fff;
+    font-size: 24px;
+}
