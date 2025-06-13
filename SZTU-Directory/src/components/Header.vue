@@ -56,12 +56,16 @@
 
 <style scoped>
     .header {
+        position: fixed;
+        top: 0;
+        left: 0;
         display: flex;
         justify-content: space-between;
         align-items: center;
         width: 100%;
         height: 70px;
         background-color: #00215b;
+        z-index: 99;
     }
 
     .header-add {

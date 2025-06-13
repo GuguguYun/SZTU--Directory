@@ -57,6 +57,7 @@
         background-color: #fff;
         transform: translate(-50%, -50%);
         box-shadow: 0 4px 24px rgba(0,0,0,0.15); /* 添加阴影 */
+        z-index: 1;
     }
 
     .login-title{

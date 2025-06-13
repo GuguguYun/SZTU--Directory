@@ -128,6 +128,8 @@
         position: absolute;
         left: 50%;
         top: 50%;
+        /* margin: 0 auto; */
+        /* margin-top: 200px; */
         width: 1300px;
         height: 700px;
         background-color: #fff;
